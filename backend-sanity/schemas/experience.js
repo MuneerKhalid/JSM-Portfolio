@@ -14,7 +14,7 @@ export default {
       type: 'array',
       of: [
         {
-          type: 'workExperience',
+          type: 'workexperience',
         },
       ],
     },
