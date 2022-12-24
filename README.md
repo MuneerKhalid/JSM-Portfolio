@@ -2,7 +2,9 @@
 
 Here i am building a portfolio to show case my skills
 
-we will buildind a website using
+We will be building a website using
 
-JS
-Sanity
+JAVASCRIPT
+REACT
+SCSS
+SANITY
