@@ -1,10 +1,10 @@
 # Muneer-Portfolio
 
-Here i am building a portfolio to show case my skills
+React Portfolio 
 
-We will be building a website using
+Technologies:
 
-Java Script
+JS
 React
 Scss
 Sanity
